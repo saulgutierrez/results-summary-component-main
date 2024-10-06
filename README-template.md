@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [results-summary-component-main](https://your-solution-url.com)
-- Live Site URL: [results-summary-component-main](https://your-live-site-url.com)
+- Solution URL: [results-summary-component-main](https://github.com/saulgutierrez/results-summary-component-main)
+- Live Site URL: [results-summary-component-main](https://darling-truffle-ff8b68.netlify.app/)
 
 ## My process
 
