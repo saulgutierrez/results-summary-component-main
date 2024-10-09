@@ -43,4 +43,4 @@ Users should be able to:
 ## Author
 
 - Website - [Saúl Gutiérrez](https://sauladai.netlify.app/)
-- Frontend Mentor - [@saulgutierrez](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@saulgutierrez](https://www.frontendmentor.io/profile/saulgutierrez)
